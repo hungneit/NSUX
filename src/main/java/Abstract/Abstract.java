@@ -57,7 +57,7 @@ public class Abstract extends PageUtility implements IRetryAnalyzer  {
 
         ChromeOptions options = new ChromeOptions();
 
-        //Comment lines can be removed if you want chrome to run in the background
+       
 /*
         options.addArguments("--no-sandbox");
         options.addArguments("--headless");
